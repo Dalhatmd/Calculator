@@ -4,5 +4,5 @@ Usage:
     compile the code using gcc and run
     For example: ./calculator 1 + 1
 
-
-    Will add more features soon 
+features to be added:
+    
